@@ -1,7 +1,7 @@
 {
   "name": "hexlet",
- "type": "module", 
- "version": "1.0.0",
+  "type": "module",
+  "version": "1.0.0",
   "description": "hexlet project",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/RockForr/hexlet-git/issues"
   },
-  "homepage": "https://github.com/RockForr/hexlet-git#readme"
+  "homepage": "https://github.com/RockForr/hexlet-git#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
