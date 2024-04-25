@@ -1,5 +1,3 @@
-import _ from "lodash";
+import _ from 'lodash';
 
-export default () => {
-return console.log("Hello, Hexlet!");
-};
+export default () => console.log(_.last(['one', 'two']));
